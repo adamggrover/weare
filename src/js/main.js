@@ -262,7 +262,7 @@ $('.news-card').mouseleave(function() {
   
 });
 
-//wp-block version
+/*wp-block version
 
 $('.kings-latest-posts').find('li').mouseenter(function() {
 
@@ -283,10 +283,11 @@ $('.kings-latest-posts').find('li').mouseleave(function() {
   $(this).find('img').css('opacity', '1');
 
 });
+*/
 
 
 
-//--------------Sixth form application Form
+//--------------Sixth form application Form------------------------------------------
 
 //gets section of page to be hidden/show
 
@@ -310,6 +311,8 @@ radioButtons.forEach(radio => {
   radio.addEventListener('click', handleRadioClick);
 });
 
+
+//-----------------100vh Fix ---------------------------------------------------------
 // set --doc-height for 100vh fix
 
 const documentHeight = () => {
