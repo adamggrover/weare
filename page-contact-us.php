@@ -73,7 +73,7 @@
                         </div>
 
                         <div class="col-md-7">
-                        <div style="width: 100%"><iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Kings%20of%20Wessex%20Academy,%20Station%20Rd,%20Cheddar%20BS27%203AQ+()&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">measure area map</a></iframe></div>
+                        <div style="width: 100%"><iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Weare%20Academy%20First%20School%20and%20Rainbow%20Woods%20Pre-School,%20Notting%20Hill%20Way,%20Weare,%20Axbridge%20BS26%202JS&t=&z=13&ie=UTF8&iwloc=&output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">measure area map</a></iframe></div>
 
 
                         </div>

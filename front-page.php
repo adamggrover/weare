@@ -16,8 +16,8 @@
                 <div data-aos="fade-up" data-aos-delay="200" data-aos-duration='800' >
                           <div>
                                   <h3 CLASS="h2">WELCOME</h3>
-                              <h4 class="mt-2">TO KINGS OF WESSEX ACADEMY</h4>
-                              <p class="mt-4 mb-4">"We are delighted that you wish to find out about our school – a place that we consider to be a fantastic community to work and to learn. By ensuring your child’s happiness remains our first priority, we know they will go onto achieve their full potential here with us."</p>
+                              <h4 class="mt-2">TO WEARE ACADEMY</h4>
+                              <p class="mt-4 mb-4">"Set in a delightful rural location, our school benefits from a fantastic range of facilities including our own outdoor swimming pool and Forest School."</p>
                               <a href="" class="">READ MORE</a>
                           </div>
                   </div>   
@@ -36,11 +36,10 @@
                     <div class="col-lg-6 d-flex align-items-center pt-5" data-aos="fade-up" data-aos-delay="200" data-aos-duration='800' >
                         <div class="left-welcome-content col-10 p-0">
                                 <h3 CLASS="h2">WELCOME</h3>
-                            <h4 class="mt-2">TO KINGS OF WESSEX ACADEMY</h4>
-                            <p class="mt-4 mb-4">"I am delighted to welcome you to The Kings of Wessex Academy – one of the top performing schools in the country.</p>
-                            <p>Kings is a high achieving 13-18 years school. Exam results are consistently high year-on-year, with students making outstanding progress from Key Stage 2 to 4, and after the Sixth Form many students go on to top universities"</p>
+                            <h4 class="mt-2">TO WEARE ACADEMY</h4>
+                            <p class="mt-4 mb-4">"Set in a delightful rural location, our school benefits from a fantastic range of facilities including our own outdoor swimming pool and Forest School."</p>
                             <a href="<?php
-                            $page_object = get_page_by_path( '/headteachers-welcome' );
+                            $page_object = get_page_by_path( '/welcome' );
                             $page_id = $page_object->ID;
                             $permalink = get_permalink( $page_id );
                             echo $permalink;
