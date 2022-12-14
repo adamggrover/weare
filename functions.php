@@ -63,6 +63,10 @@ add_action('after_setup_theme', 'kow22_theme_support');
 	
 add_filter('jpeg_quality', function($arg){return 95;});
 
+//add small image size
+
+add_image_size( 'Small size', 500, 400 );
+
 //featured image header
 
 
@@ -363,7 +367,7 @@ add_action( 'init' , 'register_custom_bellows_skins' , 10 );
 //Change excerpt Length
 
 /**
- * Filter the excerpt length to 16 words.
+ * Filter the excerpt length
 
  */
 function kow22_excerpt_length( $length ) {
