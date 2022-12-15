@@ -13,7 +13,7 @@
                     <p class="mb-3">Weare Academy<br>Notting Hill Way, Weare<br>Somerset BS26 2JS</p>
                     <p class="mb-4">Executive Headteacher: Emma Tovey</p>
                     <p><i class="fa-solid fa-phone"></i><span class="footer-spacer"></span>01934 732270</p>
-                    <p><a href="mailto:rainbow-woods@weareacademy.co.uk"><i class="fa-solid fa-envelope"></i></i><span class="footer-spacer"></span>Email Us</a></p>
+                    <p><a href="mailto:office@weareacademy.co.uk"><i class="fa-solid fa-envelope"></i></i><span class="footer-spacer"></span>Email Us</a></p>
                     <p class="mb-4"><a href="https://www.google.com/maps/dir//Weare+Academy+First+School+and+Rainbow+Woods+Pre-School,+Notting+Hill+Way,+Weare,+Axbridge/@51.2733777,-2.8855986,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48721d21c9005ee1:0x223018a0fa07df35!2m2!1d-2.8505693!2d51.2733289" target="_blank" ><i class="fa-solid fa-location-dot"></i></i><span class="footer-spacer"></span>Get Directions</a></p>
 
                     <div class="footer-social mb-4"><a href="https://twitter.com/weare_school" target="_blank" ><i class="fa-brands fa-twitter fa-xl"></i></a><span class="footer-spacer"></span><span class="footer-spacer"></span><a href="https://en-gb.facebook.com/weareacademyschool/" target="_blank"><i class="fa-brands fa-facebook-f fa-xl"></i></a></div>
