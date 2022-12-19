@@ -7,14 +7,14 @@ div.aioseo-html-page-sitemap{
     }
 
     li{
-    background-color: g.$green-light;
+    background-color: g.$primary-light;
 	padding: 1rem;
     padding-left: 1.5rem;
 	margin-bottom: 4px;
     list-style-type: none;
 
     &:hover{
-		background-color: g.$green;
+		background-color: g.$primary;
 
         a{
             color: white;
