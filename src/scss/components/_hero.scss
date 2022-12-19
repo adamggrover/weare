@@ -257,9 +257,9 @@
     font-family: 'Open Sans', sans-serif;
     
     
-    color: g.$purple;
+    color: g.$primary;
     &:hover{
-      color: g.$green;
+      color: g.$secondary;
     } 
   }
 
@@ -274,7 +274,7 @@
   }
 
   .primary-menu-container{
-    color: g.$purple;
+    color: g.$primary;
     width: 100%;
     word-wrap: break-word;
     margin: 7rem 0 0 0; 
@@ -327,7 +327,7 @@
   right: 0;
   
   margin-left: 50px;
-  background-color: g.$green;
+  background-color: g.$secondary;
   display: flex;
   justify-content: center;
   align-content: center;
