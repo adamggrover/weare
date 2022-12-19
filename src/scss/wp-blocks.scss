@@ -8,7 +8,7 @@
 .editor-styles-wrapper .is-kings-file-block { 
 	
 		a{
-			background-color: g.$green-light;
+			background-color: g.$primary-light;
 			padding: 1rem;
 			margin-bottom: 4px;
 			color: g.$dark;
@@ -19,7 +19,7 @@
 	
 	
 		&:hover{
-			background-color: g.$green;
+			background-color: g.$primary;
 			color: white;
 			
 			&::before{
@@ -161,7 +161,7 @@
 .editor-styles-wrapper .is-kings-custom-external-file-link { 
 
 	 a{
-		background-color: g.$green-light;
+		background-color: g.$primary-light;
 		padding: 1rem;
 		margin-bottom: 4px;
 		color: g.$muted;
@@ -173,7 +173,7 @@
 
 
 		&:hover{
-		background-color: g.$green;
+		background-color: g.$primary;
 		color: white;
 		
 		&::before{
