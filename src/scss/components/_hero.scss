@@ -114,7 +114,7 @@
     }
 
     .announcement-box{
-      background-color: g.$secondary;
+      background-color: g.$primary;
       width: 15rem;      
       padding: 1rem;
       min-height: 14rem;
@@ -178,7 +178,7 @@
       height: 2.5rem;
       width: 2.5rem;
       border-radius: 25rem;
-      background-color: g.$secondary;
+      background-color: g.$primary;
       text-align: center;
       display: flex;
       border: 1px solid white;
@@ -238,7 +238,7 @@
   z-index: 6; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color:g.$light-dark ; 
+  background-color:g.$primary ; 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   
   
@@ -259,7 +259,7 @@
     
     color: g.$primary;
     &:hover{
-      color: g.$secondary;
+      color: g.$accent;
     } 
   }
 
@@ -274,7 +274,7 @@
   }
 
   .primary-menu-container{
-    color: g.$primary;
+    color: white;
     width: 100%;
     word-wrap: break-word;
     margin: 7rem 0 0 0; 
@@ -327,7 +327,7 @@
   right: 0;
   
   margin-left: 50px;
-  background-color: g.$secondary;
+  //background-color: g.$secondary;
   display: flex;
   justify-content: center;
   align-content: center;
