@@ -259,7 +259,9 @@
     
     color: g.$primary;
     &:hover{
-      color: g.$accent;
+      //color: g.$accent;
+      //background-color: g.$primary;
+      //color: white;
     } 
   }
 
@@ -285,7 +287,7 @@
   }
   
   a.closebtn{
-    color: white;
+    color: g.$primary;
     font-size: 24px;
 
   }
