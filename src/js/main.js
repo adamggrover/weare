@@ -98,7 +98,7 @@ $(window).on('load', function() { // makes sure the whole site is loaded
 
 function headerBackground() {
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-    document.getElementById("header").style.backgroundColor = "#231F20";
+    document.getElementById("header").style.backgroundColor = "#2D4190";
   } else {
     document.getElementById("header").style.backgroundColor = "transparent";
   }
