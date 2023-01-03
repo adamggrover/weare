@@ -1,7 +1,7 @@
 </main>
     <!-- FOOTER SECTION-->
-    <footer class="container-fluid">
-        <div class="footer-content container">
+    <footer class="container-fluid p-0">
+        <div class="footer-content container pb-4">
             <div class="row footer-logo">
                 <div class="col-md-4">
                     <img src="" alt="Kings Academy Icon" class="footer-icon">
@@ -37,11 +37,53 @@
                     <a href="https://wessexlearningtrust.co.uk" target="_blank"><img class="wlt-white mb-3 mt-3 img-fluid" src="" alt=""></a>               
                 </div>
 
+            </div>
         </div>
-        <div class="footer-bottom text-center">
-            <hr class="mt-3">
-            <p class="mb-0 mt-4">&#169 2022 Wessex Learning Trust</p>
-        </div>
+        <a href="https://wessexlearningtrust.co.uk" target="_blank">
+            <div class="footer-bottom pt-1 pb-2 m-0">
+
+                <div class="sub-footer-container container">
+
+                    <div class="sub-footer-row row align-items-end pb-1">
+
+                        <div class="col-md-4 pt-2">
+                            
+
+                            <img class="wlt-logo text-left" src="" alt="">
+                    
+                                    
+                        </div>
+                        
+
+                        <div class="col-md-4 pt-3 ">
+                            <!--<small><p>Part of the Wessex Learning Trust</p></small> -->
+                            <!--<small><p>www.wessexlearningtrust.co.uk</p></small>  -->
+                            
+                                    
+                        </div>
+
+                        <div class="col-md-4 pt-3">
+                        
+                            <small><p>Company Number: 7348580</p></small>
+                            <small><p class="mb-0">&#169 Wessex Learning Trust 2022</p></small> 
+                            
+                            
+
+                                        
+                        </div>
+                
+
+                            
+
+
+                    </div>
+                    
+                    
+
+                </div>
+            </div>
+        </a> 
+
     </footer>
     
 
