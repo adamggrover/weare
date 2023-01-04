@@ -257,7 +257,7 @@
     font-family: 'Open Sans', sans-serif;
     
     
-    color: g.$primary;
+    //color: g.$primary;
     &:hover{
       //color: g.$accent;
       //background-color: g.$primary;
@@ -271,12 +271,14 @@
 
 #sidebar-nav{
 
+  
+
   a.bellows-target{
     min-width: fit-content;
   }
 
   .primary-menu-container{
-    color: white;
+    
     width: 100%;
     word-wrap: break-word;
     margin: 7rem 0 0 0; 

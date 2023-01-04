@@ -119,6 +119,7 @@
     background-color: g.$primary;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     
+    
     width: 100%;
     height: fit-content;
     font-family: 'Open Sans', sans-serif;
@@ -139,6 +140,7 @@
 
     a{
         padding-right: 2rem;
+        color: white!important;
         
         
         
@@ -147,6 +149,7 @@
 
     a:hover{
         background-color: g.$primary-dark;
+        color: white!important;
     }
     
 }
