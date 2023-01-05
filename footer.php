@@ -4,7 +4,7 @@
         <div class="footer-content container pb-4">
             <div class="row footer-logo">
                 <div class="col-md-4">
-                    <img src="" alt="Kings Academy Icon" class="footer-icon">
+                    <img src="" alt="Weare Academy Logo" class="footer-icon">
                 </div>
 
             </div>

@@ -43,7 +43,7 @@
             </div>
             
             <div class="col-2 logo-col text-center">
-                <a href="<?php echo get_home_url(); ?>"><img alt="Kings Academy Logo" class="logo2 img-fluid"></a>
+                <a href="<?php echo get_home_url(); ?>"><img alt="Weare Academy Logo" class="logo2 img-fluid"></a>
             </div>
                     
             <div class="social-col col-5 pt-2 p-0">
