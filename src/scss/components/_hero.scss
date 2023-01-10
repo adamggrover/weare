@@ -238,7 +238,7 @@
   z-index: 6; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color:g.$secondary ; 
+  background-color:g.$primary ; 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   
   
@@ -257,12 +257,7 @@
     font-family: 'Open Sans', sans-serif;
     
     
-    //color: g.$primary;
-    &:hover{
-      //color: g.$accent;
-      //background-color: g.$primary;
-      //color: white;
-    } 
+
   }
 
 
@@ -289,7 +284,7 @@
   }
   
   a.closebtn{
-    color: g.$primary;
+    color: white;
     font-size: 24px;
 
   }

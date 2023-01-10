@@ -39,7 +39,7 @@
 
 
 
-          <div class="primary-menu-container animate__animated">
+          <div class="primary-menu-container animate__animated" id="primary-menu-container">
           <?php bellows( 'main' , array( 'menu' => 6 ) ); ?>
           </div>
 
