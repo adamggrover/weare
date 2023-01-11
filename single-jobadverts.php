@@ -50,7 +50,7 @@
                             
                         endwhile;
                         else:
-                        echo '<p>No current vacancies</p>';
+                        echo '<p>Sorry, no posts matched your criteria.</p>';
                         endif;
                         ?>
 
